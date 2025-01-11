@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **saadsherif02@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1pcCt5Mq58bCO2BS_02Su5xq6HsMkLIcc](https://drive.google.com/drive/folders/1pcCt5Mq58bCO2BS_02Su5xq6HsMkLIcc)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Sa3doola925" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saadsherif4" height="30" width="40" /></a>
