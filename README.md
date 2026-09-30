@@ -1,5 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working for innovaDigits<br><br>🌱 I’m currently learning Reactive Programming (Rxswift && Combine) and SwiftUI<br><br>👯 I’m looking to collaborate on Smart Home Technology Companies<br><br>📫 How to reach me saadsherif02@gmail.com
 
 
 ## 🌐 Socials:
