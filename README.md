@@ -7,7 +7,7 @@ I've spent 5+ years building production iOS apps for clients in the Gulf and Egy
 
 ### 🔨 What I'm building now
 
-**[Noor](https://github.com/Sa3doola/Noor)** is an open-source Islamic companion app for iPhone, iPad, and macOS, built from one SwiftUI codebase.
+**[Noor](https://github.com/Sa3doola/ThawabForGod)** is an open-source Islamic companion app for iPhone, iPad, and macOS, built from one SwiftUI codebase.
 - Swift 6 strict concurrency, Clean Architecture (MVVM-C), manual dependency injection
 - Offline-first: on-device prayer times and Qibla, SwiftData, GRDB with FTS5 Arabic search
 - Full Arabic/English localization with RTL mirroring
