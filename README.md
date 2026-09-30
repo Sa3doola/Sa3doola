@@ -1,19 +1,33 @@
+## Hi, I'm Saad 👋
 
+**iOS Engineer** · SwiftUI · Swift 6 · Clean Architecture
+Alexandria, Egypt · Open to remote roles
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/saad.shirfe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saad-sherif) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@saadsherif02) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Sa3doola925) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saadsherif02@gmail.com) 
+I've spent 5+ years building production iOS apps for clients in the Gulf and Egypt, with **50+ App Store releases**. The work covers marketplaces, live e-learning, legal consultation with VoIP calling, and ERP systems. I care about architecture that stays readable as an app grows.
 
-# 💻 Tech Stack:
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=plastic&logo=swift&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=plastic&logo=apple&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=plastic&logo=ruby&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=plastic&logo=rust&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![Realm](https://img.shields.io/badge/Realm-39477F?style=plastic&logo=realm&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=plastic&logo=sketchup&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=plastic&logo=sketch&logoColor=black) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=plastic&logo=dribbble&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=plastic&logo=Adobe%20XD&logoColor=#FF61F6) ![Fastlane](https://img.shields.io/badge/fastlane-%2382bd4e.svg?style=plastic&logo=fastlane&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=plastic&logo=bitbucket&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Sa3doola&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Sa3doola&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sa3doola&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+### 🔨 What I'm building now
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sa3doola&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+**[Noor](https://github.com/Sa3doola/Noor)** is an open-source Islamic companion app for iPhone, iPad, and macOS, built from one SwiftUI codebase.
+- Swift 6 strict concurrency, Clean Architecture (MVVM-C), manual dependency injection
+- Offline-first: on-device prayer times and Qibla, SwiftData, GRDB with FTS5 Arabic search
+- Full Arabic/English localization with RTL mirroring
 
----
-[![](https://komarev.com/ghpvc/?username=Sa3doola&icon=0&color=0)](https://visitcount.itsvg.in)
+### 📱 Apps I've shipped
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+| App | What it is | Highlights |
+|---|---|---|
+| [Qetass](https://apps.apple.com/eg/app/id6455540367) | Legal consultation | CallKit, PushKit, OpenTok voice/video calls |
+| [Yussr Education](https://apps.apple.com/eg/app/id6448878704) | Live e-learning | Agora whiteboard, WebSocket chat, iPad |
+| [Mesllah](https://apps.apple.com/app/id6753763543) | Livestock ERP (Kuwait) | Modular UIKit, Core Data offline sync |
+| [Serva](https://apps.apple.com/eg/app/serva/id6746226848) | Services marketplace | Socket.IO chat, live map tracking |
+| [Wassla](https://apps.apple.com/eg/app/id6469012753) | Multi-merchant platform | Three apps: user, merchant, driver |
+| [Ketaah](https://apps.apple.com/us/app/ketaah/id1628433159) | Auto parts e-commerce | Apple Pay via Moyasar |
+| Zaya | Event-planning marketplace | Fully SwiftUI, type-safe router, Pusher chat |
+
+### 🧰 Tech I use
+
+`Swift 6` `SwiftUI` `UIKit` `async/await` `Combine` · `Clean Architecture` `MVVM-C` `SPM modules` · `SwiftData` `Core Data` `GRDB` · `WebSocket` `Agora` `CallKit` · `XCTest` `TestFlight`
+
+### 📫 Reach me
+
+[Portfolio](https://sa3doola.github.io) · [LinkedIn](https://www.linkedin.com/in/saad-sherif/) · saadsherif02@gmail.com
